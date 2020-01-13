@@ -3,10 +3,15 @@ header {
     background-color: rgba(86, 12, 206, 0.767);
     padding: 2.5em;
     text-align: center;
+    }
+
+
+h1 {
+    font-family: 'Seymour One', sans-serif;  
 }
 
-body {
-   
+h2, h3 {
+    font-family: 'Oswald', sans-serif;
 }
 
 img {
@@ -20,12 +25,14 @@ img {
 #content {
     max-width: 750px;
     margin: 0 auto;
-   
+    
     padding: 5em;
 }
 
 footer {
     text-align: center;
-    background-color: rgba(86, 12, 206, 0.767);
+    background-color: grey;
+    padding: 1.5em;
+    font-family: 'Titillium Web', sans-serif;
 }
 

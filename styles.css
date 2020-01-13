@@ -4,6 +4,7 @@ header {
     padding: 2.5em;
     text-align: center;
 }
+
 body {
     background-color: cadetblue;
 }
@@ -13,8 +14,7 @@ img {
     position: absolute;
     top: 110px;
     right: 25em;
-    
-    
+     
 }
 
 #content {

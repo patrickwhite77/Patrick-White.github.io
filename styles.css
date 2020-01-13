@@ -1,7 +1,25 @@
+
+header {
+    background-color: chocolate;
+    padding: 2.5em;
+    text-align: center;
+}
 body {
-    background-color: Purple;
+    background-color: cadetblue;
+}
+
+img {
+    max-width: 250px;
 }
 
 #content {
-
+    max-width: 750px;
+    margin: 0 auto;
+    background-color: Purple;
+    padding: 5em;
 }
+
+footer {
+    text-align: center;
+}
+

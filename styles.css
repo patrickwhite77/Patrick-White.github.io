@@ -1,12 +1,12 @@
 
 header {
-    background-color: chocolate;
+    background-color: rgba(86, 12, 206, 0.767);
     padding: 2.5em;
     text-align: center;
 }
 
 body {
-    background-color: cadetblue;
+   
 }
 
 img {
@@ -20,11 +20,12 @@ img {
 #content {
     max-width: 750px;
     margin: 0 auto;
-    background-color: Purple;
+   
     padding: 5em;
 }
 
 footer {
     text-align: center;
+    background-color: rgba(86, 12, 206, 0.767);
 }
 

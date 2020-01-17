@@ -1,4 +1,2 @@
-function myFunction() {
-    var x = new Date(document.lastModified);
+    var x =document.lastModified;
     document.getElementById("demo").innerHTML = x;
-  }

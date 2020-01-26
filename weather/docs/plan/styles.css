@@ -11,6 +11,14 @@ nav{
     list-style: none;
 }
 
+nav ul{
+    list-style: none; 
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(6em, 1fr)); 
+    padding: 1em;
+    margin: 0;
+}
+
 body{
     background-color: cadetblue;
 

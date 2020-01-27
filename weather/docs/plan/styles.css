@@ -1,6 +1,6 @@
 
 header{
-    background-color: coral;
+    background-color: cyan;
     padding: 1em;
     grid-template-columns: 110px auto;
     text-align: center;
@@ -20,19 +20,19 @@ nav ul{
 }
 
 body{
-    background-color: cadetblue;
+    background-color: white;
 
 }
 
 footer{
-    background-color: darkgreen;
+    background-color: white;
     padding: 1em;
 }
 
 #content{
     margin: 0 auto;
     max-width: 800px;
-    background-color: darkorchid;
+    background-color: white;
     padding: 1em;
 
 }
@@ -45,4 +45,5 @@ footer{
 
 footer{
     text-align: center;
+    background-color: cyan;
 }
